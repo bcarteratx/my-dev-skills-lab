@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    position: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    color: #e3a244;
+}
+
+#skills {
+    background-color: #9bbb9b;
+    color: white;
+}
+
+.remove {
+    background-color: #c66666;
+}
+
+#add {
+    background-color: none;
+    border: 3px solid #9bbb9b;
+}
+
+input {
+    color: #9bbb9b;
+    border: 3px solid #9bbb9b;
+
+}
