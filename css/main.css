@@ -19,21 +19,35 @@ table {
 }
 
 #skills {
-    background-color: #9bbb9b;
+    background-color: #83ba6b;
     color: white;
+    padding: 10px;
+    width: 53.5vmin;
+}
+
+td {
+    display: inline-block;
+    margin: 1vmin;
 }
 
 .remove {
-    background-color: #c66666;
+    background-color: #d74f54;
+    color: white;
 }
 
 #add {
     background-color: none;
     border: 3px solid #9bbb9b;
+    font-size: 2vmin;
+    color: #9bbb9b;
+    width: 15vmin;
+    height: 6.1vmin;
 }
 
 input {
     color: #9bbb9b;
     border: 3px solid #9bbb9b;
+    width: 40vmin;
+    height: 5vmin;
 
 }
