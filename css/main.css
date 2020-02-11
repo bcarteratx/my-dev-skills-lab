@@ -36,7 +36,7 @@ td {
     color: white;
 }
 
-#add {
+#addSkill {
     background-color: none;
     border: 3px solid #9bbb9b;
     font-size: 3vmin;
@@ -50,5 +50,6 @@ input {
     border: 3px solid #9bbb9b;
     width: 45vmin;
     height: 5vmin;
+    font-size: 3vmin;
 
 }
